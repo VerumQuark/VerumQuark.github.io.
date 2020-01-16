@@ -1,0 +1,62 @@
+[
+  {
+    "profileImg": "./assets/images/team-1.jpg",
+    "name": "Ruth" ,
+    "surname": "Wood",
+    "position": "founder, CEO",
+    "workerDescription": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "workersMedia": [
+      "https://www.facebook.com",
+      "https://twitter.com/?lang=ru",
+      "https://www.linkedin.com",
+      "https://google-plus.com",
+      "https://dribbble.com"
+    ]
+  },
+
+  {
+    "profileImg": "./assets/images/team-2.jpg",
+    "name": "Timothy" ,
+    "surname": "Reed",
+    "position": "Co-Founder, Developer",
+    "workerDescription": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "workersMedia": [
+      "https://www.facebook.com",
+      "https://twitter.com/?lang=ru",
+      "https://www.linkedin.com",
+      "https://google-plus.com",
+      "https://dribbble.com"
+    ]
+  },
+
+  {
+    "profileImg": "./assets/images/team-3.jpg",
+    "name": "Victoria" ,
+    "surname": "Valdez",
+    "position": "UI Designer",
+    "workerDescription": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "workersMedia": [
+      "https://www.facebook.com",
+      "https://twitter.com/?lang=ru",
+      "https://www.linkedin.com",
+      "https://google-plus.com",
+      "https://dribbble.com"
+    ]
+  },
+
+  {
+    "profileImg": "./assets/images/team-4.jpg",
+    "name": "Beverly" ,
+    "surname": "Little",
+    "position": "Data Scientist",
+    "workerDescription": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "workersMedia": [
+      "https://www.facebook.com",
+      "https://twitter.com/?lang=ru",
+      "https://www.linkedin.com",
+      "https://google-plus.com",
+      "https://dribbble.com"
+    ]
+  }
+
+]
